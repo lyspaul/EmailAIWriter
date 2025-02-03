@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin("http://localhost:5173/")
+@CrossOrigin("https://ai-emailreply-generator-lp-dfdxfahbf2haamek.canadacentral-01.azurewebsites.net/")
 //
 @RestController
 @RequestMapping("/api/email")
