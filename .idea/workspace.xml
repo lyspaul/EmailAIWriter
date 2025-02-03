@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e92473aa-c1df-48c5-9312-e422d2c0b6af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyspaul/emailWriter/app/EmailGeneratorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lyspaul/emailWriter/app/EmailGeneratorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +204,7 @@
       <workItem from="1737844813929" duration="17008000" />
       <workItem from="1738339364120" duration="155000" />
       <workItem from="1738339570821" duration="366000" />
-      <workItem from="1738340093960" duration="6622000" />
+      <workItem from="1738340093960" duration="7826000" />
     </task>
     <servers />
   </component>
